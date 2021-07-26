@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my profile! </br> I'm Essam, Fullstack developer from <b>Tunis, Tunisia</b>, currently living in Manouba.</p>
+<p>Welcome to my profile! </br> I'm Essam, Fullstack Developer  from <b>Tunis, Tunisia</b>, currently living in Manouba.</p>
 <h3>Things I code with</h3>
 <p>
   <!-- 
@@ -42,7 +42,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-white?style=flat-square&logo=Three.js&logoColor=black" />
 </p>
-<h3>Open source projects</h3>
+<h3>Latest projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -55,11 +55,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/FortiFyed/3-webgl-slider-card-effects"><b>React PullToRefresh component</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/Stars-1-blue?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/badge/Forks-0-blue?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/badge/Issues-0-blue?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/badge/Pull Requests-0-blue?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
@@ -79,6 +79,11 @@
 </table>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p>
+    <a href="https://github.com/SaboSuke" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+    <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+    <a href="https://www.linkedin.com/in/essam-abed-5bb7a3196/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+    <a href="https://www.facebook.com/MeSabosuke/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%4267B2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+    <a href="https://www.behance.net/essamabed" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-%053eff .svg?&style=for-the-badge&logo=Behance&logoColor=white" /></a>
 </p>
 
