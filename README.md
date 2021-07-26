@@ -35,11 +35,14 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white" />
 
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS5-FFA500?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="brain.js" src="https://img.shields.io/badge/Machine_Learning-brain.js-yellow?style=flat-square&logoColor=white" />
+  <img alt="WebGL" src="https://img.shields.io/badge/-WebGL-ba893b?style=flat-square&logo=WebGL&logoColor=white" />
   <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-white?style=flat-square&logo=Three.js&logoColor=black" />
 </p>
 <h3>Open source projects</h3>
