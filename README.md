@@ -15,9 +15,7 @@
     <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
     <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-41B883?style=flat-square&logo=Nuxt.js&logoColor=white" /> 
-    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" /> 
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img alt="brain.js" src="https://img.shields.io/badge/Machine_Learning-brain.js-yellow?style=flat-square&logoColor=white" />
@@ -34,6 +32,7 @@
 
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-3a8338?style=flat-square&logo=Express&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" /> 
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=PHP&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white" />
@@ -46,6 +45,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-white?style=flat-square&logo=Three.js&logoColor=black" />
   <img alt="WebGL" src="https://img.shields.io/badge/-WebGL-ba893b?style=flat-square&logo=WebGL&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
