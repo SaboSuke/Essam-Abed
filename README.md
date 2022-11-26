@@ -107,7 +107,7 @@
 <h3>Where to find me</h3>
 <p>
     <a href="https://github.com/SaboSuke" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-    <a href="https://www.linkedin.com/in/essam-abed-5bb7a3196/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+    <a href="www.linkedin.com/in/sabosuke" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
     <a href="https://twitter.com/SabosukeMe" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
     <a href="https://www.facebook.com/MeSabosuke/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-4267B2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>
     <a href="https://www.behance.net/essamabed" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-053eff.svg?&style=for-the-badge&logo=Behance&logoColor=white" /></a>
